@@ -35,7 +35,7 @@ Ensure you have [PHP](https://www.php.net/) installed on your system.
 
 ```bash
 # 1. Clone the repository (or copy the files)
-git clone https://github.com/YOUR_USERNAME/csrf-lab.git
+git clone https://github.com/zoly-zoly/CSRF-Lab.git
 cd csrf-lab
 
 # 2. Start the local server
