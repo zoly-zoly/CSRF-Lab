@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PHP and Server artifacts
+error_log
+*.log
+*.tmp
+temp/
+
+# Ignore sensitive files (if any exist locally)
+.env
+config.php
